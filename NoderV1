@@ -49,7 +49,7 @@ local Dex = Instance.new("TextButton")
 --Properties:
 
 Noder12.Name = "Noder - 1.2"
-Noder12.Parent = game.ServerStorage
+Noder12.Parent = game.CoreGui
 Noder12.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 Noder12.ResetOnSpawn = false
 
